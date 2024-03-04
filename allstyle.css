@@ -1,0 +1,10 @@
+body{
+    background-color: darkblue;
+}
+
+h1,div{
+    background-color: white;
+    border-radius: 25px;
+    padding: 25px;
+    margin: 15px;
+}
